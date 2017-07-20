@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kylemeenehan/km-easing/issues"
   },
-  "homepage": "https://github.com/kylemeenehan/km-easing#readme"
+  "homepage": "https://github.com/kylemeenehan/km-easing#readme",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
 }
