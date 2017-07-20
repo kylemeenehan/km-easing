@@ -1,0 +1,24 @@
+{
+  "name": "km-easing",
+  "version": "1.0.0",
+  "description": "A JavaScript library for easing functions.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylemeenehan/km-easing.git"
+  },
+  "keywords": [
+    "easing",
+    "animation",
+    "javascript"
+  ],
+  "author": "Kyle Meenehan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylemeenehan/km-easing/issues"
+  },
+  "homepage": "https://github.com/kylemeenehan/km-easing#readme"
+}
